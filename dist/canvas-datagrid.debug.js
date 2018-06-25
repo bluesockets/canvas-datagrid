@@ -113,6 +113,7 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*jslint browser
                 ['contextHoverScrollRateMs', 5],
                 ['copyHeadersOnSelectAll', true],
                 ['copyText', 'Copy'],
+                ['copyCellDataWithHeaders', true],
                 ['debug', false],
                 ['editable', true],
                 ['filterOptionText', 'Filter %s'],
